@@ -1,4 +1,5 @@
 #linear search
+
 def Lsearch(AR,ITEM):
   
  i=0
