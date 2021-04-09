@@ -1,35 +1,19 @@
 #This program detects if the message is spam or not
 
 text = input("Enter the text: ")
-
-
-
 if("make a lot of money" in text):
-    
- spam = True
-
+     spam = True
 elif("buy now" in text):
-    
- spam = True
-
+     spam = True
 elif("click this" in text):
-    
- spam = True
-
+     spam = True
 elif("subscribe this" in text):
-    
- spam = True
-
+     spam = True
 else:
+    spam = False
     
-spam = False
-    
-
 
 if(spam):
-    
- print("This text is spam!")
-
+     print("This text is spam!")
 else:
-    
- print("This text is not spam.")
+     print("This text is not spam.")
