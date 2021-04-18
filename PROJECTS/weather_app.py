@@ -8,7 +8,7 @@ from datetime import datetime
 from matplotlib import pyplot as plt 
 
 #api key from OpenWeatherMap site 
-owm = pyowm.OWM('d2e0d29a3c34333239a0bf46d66f04c1')   #generated api key from OWM
+owm = pyowm.OWM('....')   #generated api key from OWM
 #mgr = owm.weather_manager()
 
 #for streamlit frontend: title and placeholder
@@ -28,7 +28,7 @@ g_type = st.selectbox("Select Graph Type", ("Line Graph","Bar Graph"))
 #streamlit run weather_app.py
 
 #def getWeatherInfo(city: str):
- #   owm = OWM('d2e0d29a3c34333239a0bf46d66f04c1')
+ #   owm = OWM('....')
   #  mgr = owm.weather_manager()
    # obs = mgr.weather_at_place(place+',CZ')
     #w = obs.get_weather()
@@ -48,20 +48,20 @@ g_type = st.selectbox("Select Graph Type", ("Line Graph","Bar Graph"))
 #owm
 #weatherMananger
 
-#api.openweathermap.org/data/2.5/forecast?id=London,us&appid={'d2e0d29a3c34333239a0bf46d66f04c1'}
+#api.openweathermap.org/data/2.5/forecast?id=London,us&appid={'....'}
 
-#api.openweathermap.org/data/2.5/forecast?q={city name},{state code}&appid={'d2e0d29a3c34333239a0bf46d66f04c1'}
+#api.openweathermap.org/data/2.5/forecast?q={city name},{state code}&appid={'....'}
 
-#api.openweathermap.org/data/2.5/forecast?q={city name},{state code},{country code}&appid={'d2e0d29a3c34333239a0bf46d66f04c1'}
+#api.openweathermap.org/data/2.5/forecast?q={city name},{state code},{country code}&appid={'....'}
  
 
-#class pyowm.weatherapi25.weather_manager.WeatherManager('d2e0d29a3c34333239a0bf46d66f04c1', config)
+#class pyowm.weatherapi25.weather_manager.WeatherManager('....', config)
 
 #la = owm.three_hours_forecast('Los Angeles, US')
 #print(la.will_have_clouds())
 
 #obs = mgr.weather_at_place(place)
 
-owm = OWM(API_key='d2e0d29a3c34333239a0bf46d66f04c1')
+owm = OWM(API_key='....')
 forecast_at_place(place, '3h', limit=None)
 
