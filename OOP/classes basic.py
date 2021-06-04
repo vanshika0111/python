@@ -23,4 +23,9 @@ R.section = "B"
 print(V.name)
 #the following print statement illustrates displaying both object's info
 print(V.std, R.section)
+#the following statement will throw an error as R's name is not declared
+#print(R.name)
+# list can also be added as values
+R.language = ["hindi","english"]
+print(R.language)
 
