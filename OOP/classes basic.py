@@ -21,5 +21,6 @@ V.std = 11
 R.section = "B"
 #the following print statement displays the info stored in the object
 print(V.name)
+#the following print statement illustrates displaying both object's info
 print(V.std, R.section)
 
