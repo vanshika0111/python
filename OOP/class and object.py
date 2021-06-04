@@ -16,4 +16,6 @@ OOP follows the conecpt of DRY
 that is Do not Repeat Yourself.
 There's no need to re-write the same snippet again.
 
+Class cannot be changed via object modification.
+
 """
