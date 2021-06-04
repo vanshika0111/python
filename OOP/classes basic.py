@@ -3,17 +3,21 @@ class student:
 	pass
 
 
+V = student()
 
-abc = student()
+R = student()
 
-xyz = student()
+# V and R are not assigned to student 
+# V and R are objects which are stored into student
+#this print statement displays that two objects are created with two different memory allocations
+print(V,R)
+
+# the following statements assigns the values to the respective objects
+V.name = "abc"
+
+V.std = 11
 
 
-
-#abc and xyz are not assigned to student()
-#they both are two different objcets which is stored in the class student
-
-print(abc, xyz)
-
-#thus the print statement gives the info about the memory allocations of both objects with two different addresses
+#the following print statement displays the info stored in the object
+print(V.name)
 
