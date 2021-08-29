@@ -15,6 +15,9 @@ It is based on or influenced with two programming languages:
 
 As of now, from **`basic concepts`** to **`basic programs`**, using of **`library`** & **`modules`**, **`file management`**, **`functions`**, **`OOP`** concepts and elements of python i.e., **`list`**, **`tuple`** & **`dictionary`** are introduced in this repository.
 
+![Alt Text](https://github.com/vanshika0111/python/blob/master/README%20ESSENTIALS/features%202.jpg)
+![Alt Text](https://github.com/vanshika0111/python/blob/master/README%20ESSENTIALS/oop.jpg)
+
 ### **SUPPORT**
 ---
 
