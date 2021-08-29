@@ -1,7 +1,7 @@
 # **PYTHON**
 ---
 
-![Alt Text](https://github.com/vanshika0111/python/blob/master/README%20ESSENTIALS/intro.jpg)
+<center> ![Alt Text](https://github.com/vanshika0111/python/blob/master/README%20ESSENTIALS/intro.jpg) </center>
 
 #### **DESCRIPTION**
 ---
