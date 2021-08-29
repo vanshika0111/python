@@ -3,7 +3,7 @@ class: It is a template in which all the
 format is already typed you just need to enter 
 the required details.
 
-object: It is the instance of class. 
+object/instance: It is the instance of class. 
 A template is filled with
 all the details and now it is called object.
 
