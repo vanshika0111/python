@@ -1,10 +1,8 @@
 # **PYTHON**
-
-<p align="center">
-<img align="center" alt="GIF" src="https://github.com/vanshika0111/python/blob/master/README%20ESSENTIALS/intro.jpg" width="500" height="200" />
-</p>
-
 ---
+
+![Alt Text](https://github.com/vanshika0111/python/blob/master/README%20ESSENTIALS/intro.jpg) 
+
 #### **DESCRIPTION**
 ---
 
@@ -17,23 +15,20 @@ It is based on or influenced with two programming languages:
 
 As of now, from **`basic concepts`** to **`basic programs`**, using of **`library`** & **`modules`**, **`file management`**, **`functions`**, **`OOP`** concepts and elements of python i.e., **`list`**, **`tuple`** & **`dictionary`** are introduced in this repository.
 
-![Alt Text](https://github.com/vanshika0111/python/blob/master/README%20ESSENTIALS/features%202.jpg)
-![Alt Text](https://github.com/vanshika0111/python/blob/master/README%20ESSENTIALS/oop.jpg)
-
 ### **SUPPORT**
 ---
 
 Everything added in this repository is correct to my best knowledge.
 Still if you come across any error(s), feel free to suggest the corrections on the mail address vanshikag0111@gmail.com .
 
-Every suggestion or opinion matters.
+Every suggestion(s) or opinion(s) matters.
 
 ### **CONTRIBUTION**
 ---
 
 It would be glad enough if any of you will to contribute to this repository.
 It's open to contribution. 
-Clone this repository with the provivded url <u>https://github.com/vanshika0111/python</u>
+Clone this repository with the provivded url https://github.com/vanshika0111/python
 or directly clone the repository with the command:
 
 ```bash
