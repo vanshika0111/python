@@ -1,7 +1,10 @@
 # **PYTHON**
 ---
 
-![Alt Text](https://github.com/vanshika0111/python/blob/master/README%20ESSENTIALS/intro.jpg) 
+<p align="center">
+<img align="center" alt="GIF" src="https://github.com/vanshika0111/python/blob/master/README%20ESSENTIALS/intro.jpg" width="500" height="320" />
+</p>
+
 
 #### **DESCRIPTION**
 ---
