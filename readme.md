@@ -33,7 +33,7 @@ Every suggestion or opinion matters.
 
 It would be glad enough if any of you will to contribute to this repository.
 It's open to contribution. 
-Clone this repository with the provivded url https://github.com/vanshika0111/python
+Clone this repository with the provivded url <u>https://github.com/vanshika0111/python</u>
 or directly clone the repository with the command:
 
 ```bash
