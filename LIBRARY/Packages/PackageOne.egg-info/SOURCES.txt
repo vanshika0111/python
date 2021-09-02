@@ -1,0 +1,6 @@
+setup.py
+PackageOne/__init__.py
+PackageOne.egg-info/PKG-INFO
+PackageOne.egg-info/SOURCES.txt
+PackageOne.egg-info/dependency_links.txt
+PackageOne.egg-info/top_level.txt
