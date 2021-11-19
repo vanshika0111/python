@@ -1,4 +1,4 @@
-string = (input("Enter a string: ")
+string = input("Enter a string: ")
 #length = len(string)
 mid = (len(string))/2
 rev = -1
