@@ -8,7 +8,7 @@ def CountDown(t):
         time.sleep(1)
         t -= 1
 
-    print("Start working smart.")
+    print("It's never too late to start working smart.")
 
 t = input("Enter time in seconds: ")
 CountDown(int(t))
