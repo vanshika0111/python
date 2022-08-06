@@ -1,4 +1,4 @@
-YearAge = int (input("Enter you age or birth year: "))
+YearAge = int(input("Enter you age or birth year: "))
 
 isAge = False
 isYear = False
@@ -25,3 +25,5 @@ print(f"You will be of 100 years in {YearAge + 100}")
 
 Year = int(input("Enter the year you want to know age in: "))
 print(f"You will be {Year-YearAge} years old in {Year}")
+
+age = input("Thank you")
